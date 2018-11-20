@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://61.157.217.224:22600/static/app/sp_suining_worker.ipa</string>
+					<string>http://119.7.135.177:8081/static/app/sp_suining_worker.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
